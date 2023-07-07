@@ -1,0 +1,1 @@
+<img class="avatar_logo" src="{{ url('assets/img/pages/training_life.png')}}" alt="">

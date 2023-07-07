@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "pages-home"
+    },
+    {
+      "url": "/page-2",
+      "icon": "menu-icon tf-icons bx bx-file",
+      "name": "Clientes",
+      "slug": "pages-page-2",
+      "rol": "false"
+    },
+    {
+      "url": "/page-chat",
+      "icon": "menu-icon tf-icons bx bx-file",
+      "name": "IMC",
+      "slug": "pages-page-chat"
+      
+    },
+
+    {
+      "url": "/routines",
+      "icon": "menu-icon tf-icons bx bx-file",
+      "name": "Rutinas",
+      "slug": "pages-page-routines"
+    }
+
+
+  ]
+}
