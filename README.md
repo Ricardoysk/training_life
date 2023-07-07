@@ -1,2 +1,2 @@
-# El Rincon de Isma
+# Training life
 ## Template for Laravel install
